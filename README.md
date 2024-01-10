@@ -30,7 +30,7 @@ Users can select specific destinations for customized data views, offering focus
 Download `dataviz_project_v1.twbx` for local viewing. The file is compatible with Tableau Desktop and Tableau Reader (free version).
 
 ## Future Enhancements
-The next phase aims to incorporate real-time data, transforming the dashboards into a dynamic resource for up-to-date flight delay information.
+The next phase aims to incorporate real-time data and interactive way, transforming the dashboards into a dynamic resource for up-to-date flight delay information.
 
 ---
 
