@@ -1,4 +1,4 @@
-# Tableau Visualization: New York Flight Delays
+# Tableau Visualization: New York City Flight Delays
 
 ## Project Synopsis
 This Tableau project offers an insightful exploration of flight delay trends in New York City for 2013. The interactive dashboards serve as a powerful tool for users to forecast delays, equipped with filters for departure/arrival locations, timings, airlines, and aircraft makers.
